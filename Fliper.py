@@ -1,12 +1,9 @@
-P, R = input().split()
+v = int(10)
+print(v) 
 
-P = int(P)
-R = int(R)
+v = int
+v = 10 
+print(v)
 
-if P == 1:
-    if R == 1:
-        print('A')
-    else:
-        print('B')
-else:
-    print('C')
+v = int(10)
+print(v)

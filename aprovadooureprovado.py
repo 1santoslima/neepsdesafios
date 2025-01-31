@@ -6,5 +6,5 @@ if media >= 7:
 elif media >= 4 and media < 7:
     print("Recuperacao")
 elif media < 3.5:
-    print("Reprovado")
+    print(" Reprovado   ")
 
